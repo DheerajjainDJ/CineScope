@@ -1,4 +1,4 @@
-# LiveLink :- https://cine-scope-blue.vercel.app/
+LiveLink :- https://cine-scope-blue.vercel.app/
 # CineScope
 
 A modern, performance-optimized movie browsing web application built with React 19 and powered by the TMDB API. Browse trending content, explore movies and TV shows, filter by genre, and search with real-time suggestions — all in a smooth, responsive experience.
